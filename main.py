@@ -10,4 +10,3 @@ if userInput2 == "Cake recipe" or userInput2 == "cake Recipe" or userInput2 == "
    print("Try going here: https://www.rainbowtrust.org.uk/get-involved/fundraise/great-rainbow-bake/chocolate-cake-recipe?gad_source=1&gclid=EAIaIQobChMIiun-14PHhQMVEFxHAR3jIgcrEAAYASAAEgKtePD_BwE") 
 time.sleep(3)
 else: print('Sorry, but I do not understand.')
-time.sleep(3)
